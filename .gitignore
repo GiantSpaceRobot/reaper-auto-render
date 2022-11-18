@@ -1,2 +1,6 @@
 *.RPP
+ffmpeg.log
+reaper.log
+FinishedProjects*
+.DS*
 *.RPP.bak
