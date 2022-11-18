@@ -9,3 +9,4 @@ Render all projects within a directory to a certain directory. Force conversion 
 -d Path to write to
 -s source-directory: The root folder to search recursively for projects (defaults to the current directory)
 
+All credit goes to the original author: https://github.com/rcraggs/reaper-auto-render
